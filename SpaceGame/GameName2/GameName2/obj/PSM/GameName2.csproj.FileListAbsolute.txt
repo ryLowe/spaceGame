@@ -1,0 +1,5 @@
+F:\RYAN WORK\Games Programming\SpaceGame\GameName2\GameName2\bin\PSM\Content\SpriteFont1.xnb
+F:\RYAN WORK\Games Programming\SpaceGame\GameName2\GameName2\bin\PSM\IgnoreMe.dll
+F:\RYAN WORK\Games Programming\SpaceGame\GameName2\GameName2\obj\PSM\GameName2.csprojResolveAssemblyReference.cache
+F:\RYAN WORK\Games Programming\SpaceGame\GameName2\GameName2\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RYAN WORK\Games Programming\SpaceGame\GameName2\GameName2\obj\PSM\IgnoreMe.dll
